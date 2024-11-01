@@ -1,1 +1,0 @@
-# frontendmentor-day-2
